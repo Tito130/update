@@ -1,8 +1,8 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.6.3",
-      "code": 129,
+      "version": "DELTA WA v6.6.1",
+      "code": 127,
       "url": "https://t.me/ALMASHAGHIBALAKBR",
       "changelog": "Add Transparent UI - Add Audio to Voice Note - Hide Unsaved Number - More fixes and improvements"
     }
