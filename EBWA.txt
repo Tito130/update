@@ -1,3 +1,3 @@
-versionName=1.0
+versionName=3.0
 webpageUrl=https://t.me/ALMASHAGHIBALAKBR
-dialogTitle=EBWhatsApp v1.0
+dialogTitle=EBWhatsApp v3.0
