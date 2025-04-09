@@ -1,3 +1,3 @@
 versionName=5.0
 webpageUrl=https://youtu.be/NNFhHFq5IoY
-dialogTitle=GBWhatsApp v5.0
+dialogTitle=GBWhatsApp v10.0
