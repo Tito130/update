@@ -1,3 +1,3 @@
-versionName=6.0
-webpageUrl=https://t.me/tito_mods
-dialogTitle=GBWhatsApp v6.0
+versionName=7.0
+webpageUrl=https://youtu.be/RQV_xiadd-Y
+dialogTitle=GBWhatsApp v7.0
