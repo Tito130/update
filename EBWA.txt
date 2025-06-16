@@ -1,3 +1,3 @@
 versionName=9.0
 webpageUrl=https://youtu.be/4YmMDr6mG_A
-dialogTitle=GBWhatsApp V8F.0
+dialogTitle=GBWhatsApp V8.0
